@@ -10,49 +10,38 @@ This project used a datasource from a superstore that was tracking their shippme
 
 <h2>Program walk-through:</h2>
 
-Below Are screenshots of this Tableau project. 
-
-<img width="1286" alt="Screenshot 2023-09-20 at 3 32 48 PM" src="https://github.com/hayden-sutter/Tableau/assets/144716967/d39287c1-4041-440c-b248-a761d815e642">
+Below Are screenshots of this Tableau project and the file has been uploaded to look through the project in more depth. 
 
 <p align="center">
 Data Source: <br/>
-<img src="https://imgur.com/a/KZVmrD7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o6c4Pj9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-
-<!--
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sales by Region/Product: <br/>
+<img src="https://i.imgur.com/NugHW1Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
---!>
+<p align="center">
+Sales in the South: <br/>
+<img src="https://i.imgur.com/LS3uPYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Products with Negative Profit: <br/>
+<img src="https://i.imgur.com/OdFkohU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Southern Sales and Profit by State and Product Sub-Category: <br/>
+<img src="https://i.imgur.com/khvIDfG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 <!--
  ```diff
