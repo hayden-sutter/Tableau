@@ -12,6 +12,8 @@ This project used a datasource from a superstore that was tracking their shippme
 
 Below Are screenshots of this Tableau project. 
 
+<img width="1286" alt="Screenshot 2023-09-20 at 3 32 48 PM" src="https://github.com/hayden-sutter/Tableau/assets/144716967/d39287c1-4041-440c-b248-a761d815e642">
+
 <p align="center">
 Data Source: <br/>
 <img src="https://imgur.com/a/KZVmrD7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
