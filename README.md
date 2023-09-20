@@ -14,7 +14,7 @@ Below Are screenshots of this Tableau project.
 
 <p align="center">
 Data Source: <br/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KZVmrD7" data-context="false" ><a href="//imgur.com/a/KZVmrD7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/KZVmrD7)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
