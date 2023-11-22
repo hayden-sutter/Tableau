@@ -28,14 +28,22 @@ Sales by Region/Product: <br/>
 Sales in the South: <br/>
 <img src="https://i.imgur.com/LS3uPYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- Tennessee, North Carolina and Flordia all show negative profit, while all the other states in the south have positive profit. 
+<p align="left">
+- Tennessee, North Carolina and Flordia all show negative profit, while all the other states in the south have positive profit. 
 <br />
 
 <p align="center">
 Products with Negative Profit: <br/>
 <img src="https://i.imgur.com/OdFkohU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://i.imgur.com/jbuLJF4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<p align="left">
+- These two images show what sub-category is causing the negative profits. 
+<br />
+- In Florida and North Carolina, the machines sub-category is causing the most negative profit for both states. Tables are the second highest cause of negative profit for both states. 
+<br /> 
+- In Tennessee, the binders sub-category is the highest cause of negative profit, followed closely by tables. 
 
 <p align="center">
 Southern Sales and Profit by State and Product Sub-Category: <br/>
@@ -43,6 +51,10 @@ Southern Sales and Profit by State and Product Sub-Category: <br/>
 <br />
 <br />
 
+<p align="center">
+Final Thoughts: <br />
+<p align="left">
+Machines and Tables are the two main sub-categories that have shown to have the largest cause of negative profit in Tennessee, North Carolina and Florida, while also accounting for a large portion of total sales each year. In order to stop this negative profit more analysis should be done to see why machines and tables are profitable in other states in the Southern United States, but not the three mentioned before. If no reason can be found this company would be better off cutting these sub-categories from these three states in order to increase profits. 
 
 <!--
  ```diff
