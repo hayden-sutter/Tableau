@@ -28,6 +28,7 @@ Sales by Region/Product: <br/>
 Sales in the South: <br/>
 <img src="https://i.imgur.com/LS3uPYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+ Tennessee, North Carolina and Flordia all show negative profit, while all the other states in the south have positive profit. 
 <br />
 
 <p align="center">
