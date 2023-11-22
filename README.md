@@ -10,7 +10,7 @@ This project used a datasource from a superstore that was tracking their shippme
 
 <h2>Program walk-through:</h2>
 
-Below Are screenshots of this Tableau project and the file has been uploaded to look through the project in more depth. 
+Below are screenshots of this Tableau project and the file has been uploaded in order to look through the project in more depth. 
 
 <p align="center">
 Data Source: <br/>
